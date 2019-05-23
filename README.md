@@ -15,4 +15,5 @@ http://student-1850512schr.mamdt.com/12-whole-task/pitch.pdf
 
 
 ![Ik op het strand](assets/img/strand.jpg)
-![Github logo](assets/img/GitHub_Logo.png)(https://github.com/finnfinsen/portfolio)
+[![Github logo](assets/img/GitHub_Logo.png)](https://github.com/finnfinsen/portfolio)
+
