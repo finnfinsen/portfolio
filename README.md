@@ -1,6 +1,6 @@
 # Finn Schremmer Portfolio
 
-### I'm Finn Schremmer and i'm a student on ZUYD in Maastricht
+### I'm Finn Schremmer and i'm a student at ZUYD in Maastricht
 
 My projects i made are:
 
